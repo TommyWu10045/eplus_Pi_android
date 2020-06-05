@@ -69,7 +69,7 @@ public class FloatingFunctionBarService extends Service {
     boolean activity_background;
 
 
-    //----------WeakReference Handler
+    //----------WeakReference Handler----TEST GIT
     private static class MyHandler extends Handler {
         private final WeakReference<FloatingFunctionBarService> finalWeakObjct;
 
